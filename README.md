@@ -1,4 +1,9 @@
 # Reading-Challenge-Widget
+Widgets
+Widgets are a way to show off what you are reading on your blog, or any other website you have.
+
+Email Signature
+Shows the cover of the book you're currently reading. Your email recipients will always see your most recent book marked Currently Reading.
 2025 Reading Challenge Widget
 Add a widget to your blog or website that shows your progress for the 2025 Reading Challenge.
 
